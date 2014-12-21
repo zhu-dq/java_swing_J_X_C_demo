@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Aug 07 17:20:30 CST 2012
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=E\:\\javase\\\u6691\u671F\u7EC3\u4E60\\J_X_C\\J_X_C_fat.jar
+manifest.mergeall=true
+manifest.mainclass=Jframe.itest
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
